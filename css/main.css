@@ -93,3 +93,21 @@ width: 100%;
 float: left;
 position: relative;
 }
+
+
+.slick-prev {
+    font-size: 0px;
+    border: none;
+
+    background-color: transparent;
+    position: relative;
+
+
+
+}
+.slick-next {
+    font-size: 0px;
+    border: none;
+       background-color: transparent;
+    position: relative;
+}
